@@ -15,6 +15,7 @@ msgstr ""
 #: src/preferences/pages/general.ui:284
 msgid "Add Settings Entry in right-click menu of Background"
 msgstr ""
+"Adicionar entrada de configurações no menu do botão direito do plano de fundo."
 
 #: src/preferences/pages/blacklist.ui:38
 #: src/preferences/pages/custom.ui:38
@@ -99,7 +100,7 @@ msgstr "Debug"
 
 #: src/preferences/widgets/edit_shadow_window.ts:58
 msgid "Edit Shadow for Rounded Corners Windows"
-msgstr "Editar a sombra dos cantos da janela"
+msgstr "Editar a sombra dos cantos das janelas"
 
 #: src/preferences/pages/custom.ts:189
 msgid "Enable"
@@ -258,11 +259,13 @@ msgstr "Parte Superior"
 
 #: src/preferences/pages/general.ui:247
 msgid "Try to add rounded corners to Kitty Terminal in Wayland"
-msgstr ""
+msgstr "" 
+"Tentar adicionar cantos arredondados ao Kitty Terminal no Wayland"
 
 #: src/preferences/pages/general.ui:254
-msgid "Tweak clip paddings for Kitty Terminal"
+msgid "Tweak clip paddings for Kitty Terminal."
 msgstr ""
+"Ajustar as margens do clipe para o Kitty Terminal."
 
 #: src/preferences/pages/general.ui:222
 msgid "Tweaks"
